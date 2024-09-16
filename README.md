@@ -14,7 +14,6 @@
 
 - Workforce Data Quality Initiative | A $10.9 million grant from the U.S. Department of Labor to enhance career pathways research in Connecticut.
 
-- SkillsFWD | A $1.5 million grant from Rockefeller Philanthropy Advisors to launch a pilot learning and employment records (LER) platform.
 </p>
 
 <!--
