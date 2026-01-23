@@ -17,7 +17,7 @@ I have a background in public policy and state government management. I earned a
 I am also a fan of Major League Baseball. My GitHub profile will be a place where I periodically store and update my personal projects.
 
 ## Interests
--- Workforce Development
--- Digital Government
--- Baseball Statistics / Sabermetrics
--- Federal Funds Deployment and Evaluation
+- Workforce Development
+- Digital Government
+- Baseball Statistics / Sabermetrics
+- Federal Funds Deployment and Evaluation
