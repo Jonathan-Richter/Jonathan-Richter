@@ -1,33 +1,23 @@
 
-<h1 align="center">👋 Hi there, I'm Jonathan Richter</h1>
+<div align="center">
+    <h1>Jonathan Richter, MPA</h1>
+    <p><strong>Budget Analyst & Data Scientist in-training</strong></p>
+ </div>
 
-
-- 🏡 I'm based in Hartford, Connecticut
-- 👨‍💻 I currently work for the Connecticut Office of Workforce Strategy
-
-<h3 align="left"> 💼 Here are a few projects I am working on: </h3>
-<p align="left">
-
-- Career ConneCT | A $70 million ARPA grant dedicated to short-term training programs.
-
-- CT Good Jobs Challenge | A $23.9 million grant from the U.S. Economic Development Administration to support regional sector partnerships.
-
-- Workforce Data Quality Initiative | A $10.9 million grant from the U.S. Department of Labor to enhance career pathways research in Connecticut.
-
+ <p align="center">
+     <a href="mailto:richter.jonathan.s@gmail.com"><img src="https://img.shields.io/badge/Email-2a6592?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+     <a href="https://www.linkedin.com/in/jonathansrichter/"><img src="https://img.shields.io/badge/LinkedIn-2a6592?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 </p>
 
-<!--
-**Jonathan-Richter/Jonathan-Richter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am currently a Budget Analyst with the Connecticut Office of Policy and Management. I work primarily on federal funds including the American Rescue Plan Act (ARPA).
 
-Here are some ideas to get you started:
+I have a background in public policy and state government management. I earned a Masters in Public Administration from the University of Connecticut and have had various roles in state and local government.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am also a fan of Major League Baseball. My GitHub profile will be a place where I periodically store and update my personal projects.
 
--->
+## Interests
+-- Workforce Development
+-- Digital Government
+-- Baseball Statistics / Sabermetrics
+-- Federal Funds Deployment and Evaluation
